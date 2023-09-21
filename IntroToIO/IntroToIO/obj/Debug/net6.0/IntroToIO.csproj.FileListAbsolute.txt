@@ -1,0 +1,15 @@
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.AssemblyInfoInputs.cache
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.AssemblyInfo.cs
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\bin\Debug\net6.0\IntroToIO.exe
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\bin\Debug\net6.0\IntroToIO.deps.json
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\bin\Debug\net6.0\IntroToIO.runtimeconfig.json
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\bin\Debug\net6.0\IntroToIO.dll
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\bin\Debug\net6.0\IntroToIO.pdb
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.dll
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\refint\IntroToIO.dll
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.pdb
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\IntroToIO.genruntimeconfig.cache
+C:\Users\Gamer\source\repos\IntroToIO\IntroToIO\obj\Debug\net6.0\ref\IntroToIO.dll
